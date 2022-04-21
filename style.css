@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    color: rgba(255, 255, 255, 0.747);
+}
+.bq{
+    font-size: 400;
+    font-weight: bolder;
+    color: red;
+    text-decoration: underline;
+}
+.coloring-Quote{
+    color: green;
+}
+.img{
+    background-color: black;
+}
+.name{
+    color: yellow;
+}
+.bd{
+    color: blue;
+}
+.occupation{
+    color: yellow;
+}
